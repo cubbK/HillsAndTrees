@@ -2,7 +2,7 @@
 My attempt at making procedural hills and mountains. Inspired by 
 [Scott Turner's post](https://heredragonsabound.blogspot.md/2016/12/how-to-decorate-mountain-part-2.html).
 
-## **[Try it](https://cubbic.github.io/HillsAndTrees/)**
+## **[Try it](https://cubbk.github.io/HillsAndTrees/)**
 
 My progress so far
 
